@@ -1,4 +1,1 @@
-# This file lists the package dependencies for the application.
-flask
-numpy
-pandas
+PySimpleGUI==4.60.5
