@@ -1,0 +1,4 @@
+# This file lists the package dependencies for the application.
+flask
+numpy
+pandas

@@ -1,0 +1,4 @@
+# This is the .gitignore file
+__pycache__/
+*.py[cod]
+*.db
